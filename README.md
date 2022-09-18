@@ -11,7 +11,7 @@ A way to ban all members from a Discord Server.
 # How to Install 
 
 ```
-$ git clone https://github.com/ignshifts/Mass-DM.git
+$ git clone https://github.com/ignshifts/Mass-Ban.git
 $ npm install 
 ```
 **This will install all needed packages for the repo to work.**
