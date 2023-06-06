@@ -1,19 +1,25 @@
-# Discord Mass Ban
+<h1 align="center"> 🛡️ Mass Ban 🛡️ </h1>
 
-A way to ban all members from a Discord Server.
+<p align='center'>
+  <b>A way to easily ban all members in a Discord Server.</b><br>
+</p>
 
-# Requirements
-
-- [Node.js v16 or higher](https://nodejs.org/en/)
-- [Discord.JS v13](https://discord.js.org/#/)
-- [dotenv](https://github.com/motdotla/dotenv)
-
-# How to Install 
-
+## Installation
+```js
+  * run install.bat OR npm install
 ```
-$ git clone https://github.com/ignshifts/Mass-Ban.git
-$ npm install 
-```
-**This will install all needed packages for the repo to work.**
 
-**Note**: You can do this from the ready event, the bot will start banning all users once it connects to the gateway rather than you having to invoke a command.
+##  Usage:
+```js
+  * npm start OR node index.js *
+```
+
+## Intents:
+
+> Enable Message Content & Server Members Intent
+
+![image](https://github.com/ignshifts/Mass-DM/assets/74390871/4ec5a6be-ab3c-4b17-b13e-967212c0390a)
+
+##  Credits:
+ > Discord : [Shifts#1337](https://discord.com/users/994717305542021244)
+ > <br>Leave a ⭐
